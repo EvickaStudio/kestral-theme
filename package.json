@@ -1,8 +1,13 @@
 {
   "name": "kestral",
-  "displayName": "kestral",
-  "description": "",
+  "displayName": "Kestral Dark Theme",
+  "description": "A dark theme with pinkish lavender accents for VS Code",
   "version": "0.0.1",
+  "publisher": "EvickaStudio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvickaStudio/kestral"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -12,10 +17,18 @@
   "contributes": {
     "themes": [
       {
-        "label": "kestral-dark",
+        "label": "Kestral Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/kestral-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "kestral",
+    "purple",
+    "lavender"
+  ],
+  "icon": "icon.png"
 }
