@@ -1,22 +1,42 @@
-# kestral README
+# Kestral Dark Theme
 
 ![Screenshot](assets/screenshot.png)
 
-## Working with Markdown
+A dark theme with pinkish lavender accents for Visual Studio Code. Adapted from the Default Dark Modern theme to fit my personal preferences.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Dark background with carefully selected contrast levels
+- Pinkish lavender accent colors (#c586c0)
+- Consistent syntax highlighting across languages
+- Optimized for readability during long coding sessions
 
-## For more information
+<!-- Package is currently not live on the marketplace -->
+<!-- ## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for `Kestral Dark Theme`
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
+5. Select **Preferences: Color Theme** and choose **Kestral Dark**
+ -->
 
-**Enjoy!**
+## Development
 
-## Information
+This theme is based on the [Default Dark Modern](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes) theme, with modifications to colors and styles to create a more pleasant coding experience.
 
-This theme is based on the [Default Dark Modern](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes) theme, with some modifications to the colors and styles.
+If you want to contribute:
+
+1. Clone the repository
+2. Make your changes to `themes/kestral-dark-color-theme.json`
+3. Press `F5` to open a new window with your extension loaded
+4. Open the Color Theme picker with `File > Preferences > Theme > Color Theme`
+5. Test your changes and submit a pull request
+
+## Feedback and Issues
+
+If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/EvickaStudio/kestral/issues) on GitHub.
+
+## License
+
+This theme is released under the [MIT License](LICENSE).
