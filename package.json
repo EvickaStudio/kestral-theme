@@ -4,6 +4,12 @@
   "description": "A dark theme with pinkish lavender accents for VS Code",
   "version": "0.0.1",
   "publisher": "EvickaStudio",
+  "preview": true,
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#c586c0",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/EvickaStudio/kestral"
