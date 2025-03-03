@@ -1,6 +1,6 @@
 # Kestral Dark Theme
 
-![Screenshot](assets/screenshot.png)
+![Icon](icon.png)
 
 A dark theme with pinkish lavender accents for Visual Studio Code. Adapted from the Default Dark Modern theme to fit my personal preferences.
 
@@ -20,6 +20,10 @@ A dark theme with pinkish lavender accents for Visual Studio Code. Adapted from 
 4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
 5. Select **Preferences: Color Theme** and choose **Kestral Dark**
  -->
+
+## Screenshots
+
+![Screenshot](assets/screenshot.png)
 
 ## Development
 
