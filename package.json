@@ -2,7 +2,7 @@
   "name": "kestral",
   "displayName": "Kestral Dark Theme",
   "description": "A dark theme with pinkish lavender accents for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "EvickaStudio",
   "preview": true,
   "license": "MIT",
@@ -15,7 +15,7 @@
     "url": "https://github.com/EvickaStudio/kestral"
   },
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"
