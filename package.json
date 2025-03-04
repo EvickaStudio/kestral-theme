@@ -1,40 +1,44 @@
 {
-  "name": "kestral",
-  "displayName": "Kestral Dark Theme",
-  "description": "A dark theme with pinkish lavender accents for VS Code",
-  "version": "0.0.2",
-  "publisher": "EvickaStudio",
-  "preview": true,
-  "license": "MIT",
-  "galleryBanner": {
-    "color": "#c586c0",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/EvickaStudio/kestral"
-  },
-  "engines": {
-    "vscode": "^1.12.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Kestral Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kestral-dark-color-theme.json"
-      }
-    ]
-  },
-  "keywords": [
-    "theme",
-    "dark theme",
-    "kestral",
-    "purple",
-    "lavender"
-  ],
-  "icon": "icon.png"
+    "name": "kestral",
+    "displayName": "Kestral Dark Theme",
+    "description": "A dark theme with pinkish lavender accents for VS Code",
+    "version": "0.0.3",
+    "publisher": "EvickaStudio",
+    "preview": true,
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#c586c0",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EvickaStudio/kestral"
+    },
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+                "label": "Kestral Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kestral-dark-color-theme.json"
+            },
+            {
+                "label": "Kestral Light",
+                "uiTheme": "vs",
+                "path": "./themes/kestral-light-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "kestral",
+        "purple",
+        "lavender"
+    ],
+    "icon": "icon.png"
 }
