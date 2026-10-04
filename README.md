@@ -1,38 +1,42 @@
-# Kestral Dark Theme
+# Kestral Theme
 
-![Icon](icon.png)
+A pair of Visual Studio Code themes with salmon-pink and lavender accents, neutral backgrounds, and the familiar syntax colors of Dark+ and Light+.
 
-A dark theme with pinkish lavender accents for Visual Studio Code. Adapted from the Default Dark Modern theme to fit my personal preferences.
+![Kestral Dark and Kestral Light in VS Code, separated by a diagonal salmon-pink slash](assets/kestral-preview.webp)
 
 ## Features
 
-- Dark background with carefully selected contrast levels
-- Pinkish lavender accent colors (#c586c0)
-- Consistent syntax highlighting across languages
-- Optimized for readability during long coding sessions
+- Dark and light variants that retain Kestral's original Dark+ / Light+ foundations
+- Salmon-pink accents: `#d99aa5` in Dark and a deeper `#a34f68` in Light
+- Lavender selections, focus indicators, and links
+- Coordinated tabs, completion menus, search matches, Git decorations, and diagnostics
+- Existing syntax and semantic highlighting inherited from the bundled Plus themes
 
 ## Installation
 
 1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-2. Search for `Kestral Dark Theme`
+2. Search for `Kestral Theme`
 3. Click **Install**
 4. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
-5. Select **Preferences: Color Theme** and choose **Kestral Dark**
+5. Select **Preferences: Color Theme** and choose either **Kestral Dark** or **Kestral Light**
 
 You can also install directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=evickastudio.kestral).
 
 ## Screenshots
 
-![Screenshot](assets/screenshot.png)
+The combined preview above uses real VS Code screenshots. Open either full-size image for a closer look:
+
+- [Kestral Dark](assets/kestral-dark.webp)
+- [Kestral Light](assets/kestral-light.webp)
 
 ## Development
 
-This theme is based on the [Default Dark Modern](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes) theme, with modifications to colors and styles to create a more pleasant coding experience.
+The workbench colors live in the two Kestral theme files. Syntax highlighting is inherited from the bundled `dark_plus.json` and `light_plus.json` files, based on the [VS Code default themes](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes).
 
 If you want to contribute:
 
 1. Clone the repository
-2. Make your changes to `themes/kestral-dark-color-theme.json`
+2. Make your changes to `themes/kestral-dark-color-theme.json` or `themes/kestral-light-color-theme.json`
 3. Press `F5` to open a new window with your extension loaded
 4. Open the Color Theme picker with `File > Preferences > Theme > Color Theme`
 5. Test your changes and submit a pull request
