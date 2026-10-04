@@ -13,6 +13,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added a labeled, diagonal light/dark preview using real VS Code screenshots.
 - Optimized screenshot assets as lossless WebP, preserving full resolution and exact pixels.
 - Updated extension metadata to describe both theme variants.
+- Fixed Marketplace screenshots by using public HTTPS image URLs pinned to the existing release artwork.
+- Corrected the repository and issue links to `EvickaStudio/kestral-theme`.
+- Removed the Marketplace Preview flag.
 
 ## [0.0.3]
 

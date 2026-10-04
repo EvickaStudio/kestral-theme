@@ -4,7 +4,7 @@
     "description": "Dark+ and Light+ inspired themes with salmon-pink and lavender accents for VS Code",
     "version": "0.0.4",
     "publisher": "EvickaStudio",
-    "preview": true,
+    "preview": false,
     "license": "MIT",
     "galleryBanner": {
         "color": "#1e1d1c",
@@ -12,7 +12,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/EvickaStudio/kestral"
+        "url": "https://github.com/EvickaStudio/kestral-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/EvickaStudio/kestral-theme/issues"
     },
     "engines": {
         "vscode": "^1.12.0"
