@@ -1,13 +1,13 @@
 {
     "name": "kestral",
-    "displayName": "Kestral Dark Theme",
-    "description": "A dark theme with pinkish lavender accents for VS Code",
-    "version": "0.0.3",
+    "displayName": "Kestral Theme",
+    "description": "Dark+ and Light+ inspired themes with salmon-pink and lavender accents for VS Code",
+    "version": "0.0.4",
     "publisher": "EvickaStudio",
     "preview": true,
     "license": "MIT",
     "galleryBanner": {
-        "color": "#c586c0",
+        "color": "#1e1d1c",
         "theme": "dark"
     },
     "repository": {
@@ -36,8 +36,10 @@
     "keywords": [
         "theme",
         "dark theme",
+        "light theme",
         "kestral",
-        "purple",
+        "pink",
+        "salmon",
         "lavender"
     ],
     "icon": "icon.png"

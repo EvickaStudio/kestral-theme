@@ -5,5 +5,3 @@ vsc-extension-quickstart.md
 describe-commit
 .git/**
 .gitattributes
-assets/**
-CHANGELOG.md

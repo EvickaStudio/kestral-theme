@@ -1,16 +1,16 @@
 # Kestral Theme
 
-![Icon](icon.png)
+A pair of Visual Studio Code themes with salmon-pink and lavender accents, neutral backgrounds, and the familiar syntax colors of Dark+ and Light+.
 
-A set of themes with pinkish lavender accents for Visual Studio Code. Includes both dark and light variants, adapted from the Default themes to fit my personal preferences.
+![Kestral Dark and Kestral Light in VS Code, separated by a diagonal salmon-pink slash](assets/kestral-preview.webp)
 
 ## Features
 
-- Dark and light variants with carefully selected contrast levels
-- Pinkish lavender accent colors (#c586c0)
-- Consistent syntax highlighting across languages
-- Optimized for readability during long coding sessions
-- Harmonious color schemes for both dark and light environments
+- Dark and light variants that retain Kestral's original Dark+ / Light+ foundations
+- Salmon-pink accents: `#d99aa5` in Dark and a deeper `#a34f68` in Light
+- Lavender selections, focus indicators, and links
+- Coordinated tabs, completion menus, search matches, Git decorations, and diagnostics
+- Existing syntax and semantic highlighting inherited from the bundled Plus themes
 
 ## Installation
 
@@ -24,15 +24,14 @@ You can also install directly from the [Visual Studio Code Marketplace](https://
 
 ## Screenshots
 
-### Dark Theme
-![Dark Screenshot](assets/screenshot.png)
+The combined preview above uses real VS Code screenshots. Open either full-size image for a closer look:
 
-### Light Theme
-![Light Screenshot](assets/screenshot-light.png)
+- [Kestral Dark](assets/kestral-dark.webp)
+- [Kestral Light](assets/kestral-light.webp)
 
 ## Development
 
-These themes are based on the [Default Dark Modern](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes) and [Default Light Modern](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes) themes, with modifications to colors and styles to create a more pleasant coding experience.
+The workbench colors live in the two Kestral theme files. Syntax highlighting is inherited from the bundled `dark_plus.json` and `light_plus.json` files, based on the [VS Code default themes](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes).
 
 If you want to contribute:
 
