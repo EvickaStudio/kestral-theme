@@ -2,7 +2,7 @@
 
 A pair of Visual Studio Code themes with salmon-pink and lavender accents, neutral backgrounds, and the familiar syntax colors of Dark+ and Light+.
 
-![Kestral Dark and Kestral Light in VS Code, separated by a diagonal salmon-pink slash](assets/kestral-preview.webp)
+![Kestral Dark and Kestral Light in VS Code, separated by a diagonal salmon-pink slash](https://raw.githubusercontent.com/EvickaStudio/kestral-theme/v0.0.4/assets/kestral-preview.webp)
 
 ## Features
 
@@ -26,8 +26,8 @@ You can also install directly from the [Visual Studio Code Marketplace](https://
 
 The combined preview above uses real VS Code screenshots. Open either full-size image for a closer look:
 
-- [Kestral Dark](assets/kestral-dark.webp)
-- [Kestral Light](assets/kestral-light.webp)
+- [Kestral Dark](https://raw.githubusercontent.com/EvickaStudio/kestral-theme/v0.0.4/assets/kestral-dark.webp)
+- [Kestral Light](https://raw.githubusercontent.com/EvickaStudio/kestral-theme/v0.0.4/assets/kestral-light.webp)
 
 ## Development
 
@@ -43,7 +43,7 @@ If you want to contribute:
 
 ## Feedback and Issues
 
-If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/EvickaStudio/kestral/issues) on GitHub.
+If you find any issues or have suggestions for improvements, please [open an issue](https://github.com/EvickaStudio/kestral-theme/issues) on GitHub.
 
 ## License
 
